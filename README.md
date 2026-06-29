@@ -1,1 +1,1 @@
-Hello, this is my updated engineering portfolio showcasing all the projects I have worked on in my classes as well as through my extracurriculars.
+Hello, I am a mechanical engineering undergraduate at the University of Florida. This repository has a pdf of my engineering portfolio showcasing all the relevant projects I have worked on in my classes as well as through my extracurriculars.
