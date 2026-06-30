@@ -1,1 +1,1 @@
-Hello, I am a mechanical engineering undergraduate at the University of Florida. This repository contains a PDF of my engineering portfolio showcasing all of my relevant projects from my classes as well as through my extracurriculars.
+Hello, I am a mechanical engineering undergraduate at the University of Florida. This repository contains a PDF of my engineering portfolio showcasing all of my relevant projects from my classes as well as through my extracurriculars. If you have any questions, please reach out via email.
